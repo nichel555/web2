@@ -1,0 +1,27 @@
+.navbar{
+  box-shadow: 2px 2px 5px #000;
+  opacity: .9;
+  z-index: 1000;
+}
+.navbar .nav-item .nav-link{
+  color: white;
+}
+
+.background-overlay{
+
+}
+.team{
+  background-color: #D35400  ;
+}
+#galeria img{
+  width: 100%;
+  height: 250px;
+
+}
+#galeria .col-lg-4{
+  margin: 0 !important;
+  padding: 25px
+}
+#galeria img:hover{
+  border: 5px solid  #212F3C
+}
